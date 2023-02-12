@@ -1,4 +1,4 @@
-# ANLPT
+# ANLPT: Self-Adaptive and Non-Local Patch-Tensor Model for Infrared Small Target Detection. Remote Sensing
 Self-Adaptive and Non-Local Patch-Tensor Model for Infrared Small Target Detection
 
 https://www.mdpi.com/2072-4292/15/4/1021
